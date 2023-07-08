@@ -10,6 +10,7 @@ function errorHandler(error){
 
 module.exports.two = function two(){
     console.log('two');
+    console.log("three")
 }
 
 // module.exports.errorHandler = errorHandler;
